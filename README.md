@@ -1,3 +1,5 @@
+This is the Course Website for a Winter 2015 offering of CS106B
+
 CS 106 Section Website Template
 ================================
 
@@ -13,7 +15,3 @@ How to get started:
 4. Check the new hotness out at http://web.stanford.edu/~[sunet id]/[folder name]/
 [5] Install some sort of AFS software or bind your favorite text editor to that folder directory so you can make direct changes to the site.
 
-To-dos:
--------
-1. Implement a smart-navbar that updates links automatically if the index.html's home page has a new list element (or just write a script ot do it...)
-2. Port it over to an express framework.
