@@ -1,4 +1,4 @@
-This is the Course Website for a Winter 2015 offering of CS106B
+This is the Course Website for a Winter 2015 offering of CS106B.
 
 CS 106 Section Website Template
 ================================
